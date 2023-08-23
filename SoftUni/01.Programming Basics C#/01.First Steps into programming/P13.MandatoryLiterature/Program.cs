@@ -10,7 +10,7 @@ namespace P13.MandatoryLiterature
             ushort pagesReadPerHour = ushort.Parse(Console.ReadLine());
             ushort daysRequiredToFinish = ushort.Parse(Console.ReadLine());
 
-            double timeRequiredPerDay = Math.Round(bookPages / (double)daysRequiredToFinish / pagesReadPerHour, 0);
+            double timeRequiredPerDay = Math.Floor(bookPages / (double)daysRequiredToFinish / pagesReadPerHour, 0);
             Console.WriteLine(timeRequiredPerDay);
             
         }

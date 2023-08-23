@@ -12,7 +12,7 @@ namespace P19.Aquarium
             double percentageOccupied = double.Parse(Console.ReadLine()) / 100;
 
             double volume = length * width * height;
-            double waterInTank = (volume * (1 - percentageOccupied)) / 1000;
+            double waterInTank = volume * (1 - percentageOccupied) / 1000;
 
             Console.WriteLine(waterInTank);
         }

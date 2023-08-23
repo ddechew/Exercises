@@ -1,5 +1,7 @@
 .git
 .vs
 *.sln
+*.pdf
+*.docx
 bin
 obj

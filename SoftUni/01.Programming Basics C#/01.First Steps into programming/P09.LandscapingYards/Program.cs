@@ -9,7 +9,7 @@ namespace P09.LandscapingYards
             const double PricePerSquareMeter = 7.61;
             const double Discount = 0.18;
 
-            ushort sqrMeteres = ushort.Parse(Console.ReadLine());
+            double sqrMeteres = double.Parse(Console.ReadLine());
             decimal price = (decimal)(sqrMeteres * PricePerSquareMeter);
             decimal discountedValue = price * (decimal)Discount;
             decimal finalPrice = price - discountedValue;
