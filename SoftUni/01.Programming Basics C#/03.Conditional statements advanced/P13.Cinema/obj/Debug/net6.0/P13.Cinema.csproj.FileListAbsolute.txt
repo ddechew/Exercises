@@ -1,0 +1,15 @@
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\bin\Debug\net6.0\P13.Cinema.exe
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\bin\Debug\net6.0\P13.Cinema.deps.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\bin\Debug\net6.0\P13.Cinema.runtimeconfig.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\bin\Debug\net6.0\P13.Cinema.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\bin\Debug\net6.0\P13.Cinema.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\P13.Cinema.csproj.AssemblyReference.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\P13.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\P13.Cinema.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\P13.Cinema.AssemblyInfo.cs
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\P13.Cinema.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\P13.Cinema.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\refint\P13.Cinema.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\P13.Cinema.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\P13.Cinema.genruntimeconfig.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P13.Cinema\obj\Debug\net6.0\ref\P13.Cinema.dll

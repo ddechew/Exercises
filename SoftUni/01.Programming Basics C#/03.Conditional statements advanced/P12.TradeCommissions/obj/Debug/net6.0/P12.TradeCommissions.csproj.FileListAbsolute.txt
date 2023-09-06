@@ -1,0 +1,15 @@
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\bin\Debug\net6.0\P12.TradeCommissions.exe
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\bin\Debug\net6.0\P12.TradeCommissions.deps.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\bin\Debug\net6.0\P12.TradeCommissions.runtimeconfig.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\bin\Debug\net6.0\P12.TradeCommissions.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\bin\Debug\net6.0\P12.TradeCommissions.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\P12.TradeCommissions.csproj.AssemblyReference.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\P12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\P12.TradeCommissions.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\P12.TradeCommissions.AssemblyInfo.cs
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\P12.TradeCommissions.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\P12.TradeCommissions.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\refint\P12.TradeCommissions.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\P12.TradeCommissions.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\P12.TradeCommissions.genruntimeconfig.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P12.TradeCommissions\obj\Debug\net6.0\ref\P12.TradeCommissions.dll

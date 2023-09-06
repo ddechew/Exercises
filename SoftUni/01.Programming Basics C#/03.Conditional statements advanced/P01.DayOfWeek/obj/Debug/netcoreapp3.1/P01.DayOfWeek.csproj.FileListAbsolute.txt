@@ -1,0 +1,14 @@
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\bin\Debug\netcoreapp3.1\P01.DayOfWeek.exe
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\bin\Debug\netcoreapp3.1\P01.DayOfWeek.deps.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\bin\Debug\netcoreapp3.1\P01.DayOfWeek.runtimeconfig.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\bin\Debug\netcoreapp3.1\P01.DayOfWeek.runtimeconfig.dev.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\bin\Debug\netcoreapp3.1\P01.DayOfWeek.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\bin\Debug\netcoreapp3.1\P01.DayOfWeek.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\obj\Debug\netcoreapp3.1\P01.DayOfWeek.csproj.AssemblyReference.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\obj\Debug\netcoreapp3.1\P01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\obj\Debug\netcoreapp3.1\P01.DayOfWeek.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\obj\Debug\netcoreapp3.1\P01.DayOfWeek.AssemblyInfo.cs
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\obj\Debug\netcoreapp3.1\P01.DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\obj\Debug\netcoreapp3.1\P01.DayOfWeek.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\obj\Debug\netcoreapp3.1\P01.DayOfWeek.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P01.DayOfWeek\obj\Debug\netcoreapp3.1\P01.DayOfWeek.genruntimeconfig.cache

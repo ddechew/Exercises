@@ -1,0 +1,14 @@
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.exe
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.deps.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.runtimeconfig.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.runtimeconfig.dev.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.csproj.AssemblyReference.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.AssemblyInfo.cs
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\P02.WeekendOrWorkingDay.genruntimeconfig.cache

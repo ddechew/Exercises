@@ -1,0 +1,15 @@
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\bin\Debug\net6.0\P06.NumInRange.exe
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\bin\Debug\net6.0\P06.NumInRange.deps.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\bin\Debug\net6.0\P06.NumInRange.runtimeconfig.json
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\bin\Debug\net6.0\P06.NumInRange.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\bin\Debug\net6.0\P06.NumInRange.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\P06.NumInRange.csproj.AssemblyReference.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\P06.NumInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\P06.NumInRange.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\P06.NumInRange.AssemblyInfo.cs
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\P06.NumInRange.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\P06.NumInRange.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\refint\P06.NumInRange.dll
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\P06.NumInRange.pdb
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\P06.NumInRange.genruntimeconfig.cache
+D:\Projects\SoftUni\SOFTUNI REVISION\Exercises\SoftUni\01.Programming Basics C#\03.Conditional statements advanced\P06.NumInRange\obj\Debug\net6.0\ref\P06.NumInRange.dll
