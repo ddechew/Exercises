@@ -1,0 +1,6 @@
+ALTER TABLE Users
+DROP CONSTRAINT PK_IdUsername;
+
+ALTER TABLE Users ADD 
+CONSTRAINT PK_Id PRIMARY KEY (Id),
+CONSTRAINT CHK_UsernameValid CHECK(len(Username) >= 3);
